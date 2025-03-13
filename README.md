@@ -1,6 +1,6 @@
 # Hi there, It's ModzabazeR 👋
 ![Phachara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModzabazeR&theme=dracula&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModzabazeR&langs_count=6&layout=compact&theme=dracula&exclude_repo=WhatDoesProgrammerDo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModzabazeR&langs_count=6&layout=compact&theme=dracula&exclude_repo=WhatDoesProgrammerDo,2566-2-CG-Labs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Repositories
 <a href="https://github.com/ModzabazeR/DocJuice">
